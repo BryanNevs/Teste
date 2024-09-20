@@ -1,0 +1,11 @@
+/* banner.css */
+.margem {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.margem img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
